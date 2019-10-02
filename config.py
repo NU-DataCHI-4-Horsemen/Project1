@@ -1,2 +1,2 @@
-censuskey= "e3e81448231968ac8b89673626596979814670c6"
-gkey= "AIzaSyBDq87PcVn8mVECipHt6-bGRzisFEziOTc"
+censuskey= "key"
+gkey= "key"
