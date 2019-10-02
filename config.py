@@ -1,2 +1,2 @@
-censuskey= "key"
-gkey= "key"
+censuskey = "Nope"
+gkey= "Nope"
