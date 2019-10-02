@@ -1,2 +1,0 @@
-censuskey= "Nope"
-gkey= "Nope"
